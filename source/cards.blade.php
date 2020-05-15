@@ -1,7 +1,7 @@
 @extends('_layouts.master')
 
 @section('body')
-    <div class="flex items-center justify-center h-screen bg-gray-300">
+    <div class="flex items-center justify-center h-screen bg-gray-300 px-4">
         <div class="max-w-sm w-full px-4 py-3 bg-white shadow-md rounded-md">
             <div class="flex justify-between items-center">
                 <span class="text-sm font-light text-gray-800">Courses and MOOCs</span>
