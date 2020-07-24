@@ -4,6 +4,8 @@
 /vendor/
 /.idea/
 /.vscode/
+package-lock.json
+yarn.lock
 npm-debug.log
 yarn-error.log
 
